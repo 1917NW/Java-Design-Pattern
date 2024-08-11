@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08703c7c-2a9a-4d8c-b36d-81127dc334c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/factory/AbstractFactoryInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/factory/impl/IronFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/factory/impl/WoodenFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productA/ProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productA/impl/IronProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productA/impl/WoodenProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productB/ProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productB/impl/IronProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/product/productB/impl/WoodenProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/adapter/MP3PlayerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/classes/MP3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/BridgeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/color/impl/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/color/impl/Yellow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/shape/impl/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/java/shape/impl/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridge/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/builder/RoomBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/product/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/pattern/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/pattern/impl/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/pattern/impl/Bitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/pattern/impl/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/pattern/Bulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/pattern/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/pattern/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/pattern/command/impl/TurnOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/java/pattern/command/impl/TurnOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/java/pattern/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/java/pattern/composite/MediaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/java/pattern/composite/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/java/pattern/container/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/java/pattern/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/java/pattern/classes/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/java/pattern/decorator/MilkCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/java/pattern/facade/SubSystemFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/java/pattern/subsystems/SubSystemA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/java/pattern/subsystems/SubSystemB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/factory/FactoryMethodInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/factory/impl/IronDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/factory/impl/WoodenDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/product/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/product/impl/IronDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/product/impl/WoodenDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/java/pattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/java/pattern/CircleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyWeight/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/java/pattern/BookSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/java/pattern/BookSelfIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/java/pattern/ChatMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/java/pattern/ChatMediatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/java/pattern/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/java/pattern/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/java/pattern/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/java/pattern/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/java/pattern/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/pattern/entity/JobPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/pattern/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/pattern/observer/impl/JobSeeker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/pattern/topic/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/pattern/topic/impl/EmploymentAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/java/PrototypeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/java/pattern/proxy/SecureDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/java/pattern/target/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/factory/DoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/product/door/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/product/door/impl/WoodenDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/src/main/java/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/src/main/java/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/pay/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/pay/impl/BitcoinStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/pay/impl/CreditCardStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/pay/impl/PaypalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/shop/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/pattern/shop/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/Info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/interviewee/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/interviewee/impl/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/interviewee/impl/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/interviewee/impl/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/visitor/AnimalVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/pattern/visitor/impl/Speak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visitor/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../work/maven-local-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../work/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../work/apache-maven-3.6.1/conf/settings_bjhl.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jpOkmWwRQOPhEBAItWODZR0mJu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/lxy/Documents/study/Java-Design-Pattern/Java-Design-Pattern-Demos/Strategy",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Strategy" />
+      <recent name="$PROJECT_DIR$/Visitor" />
+      <recent name="$PROJECT_DIR$/Observer" />
+      <recent name="$PROJECT_DIR$/Memento" />
+      <recent name="$PROJECT_DIR$/Mediator" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Strategy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mediator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Memento" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Observer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Visitor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08703c7c-2a9a-4d8c-b36d-81127dc334c3" name="Changes" comment="" />
+      <created>1722080699973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722080699973</updated>
+      <workItem from="1722080701163" duration="3966000" />
+      <workItem from="1722135459993" duration="5252000" />
+      <workItem from="1722653913144" duration="14247000" />
+      <workItem from="1722745086698" duration="7128000" />
+      <workItem from="1722894784172" duration="2750000" />
+      <workItem from="1723302214865" duration="1796000" />
+      <workItem from="1723346777001" duration="5169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Decorator/src/main/java/pattern/classes/SimpleCoffee.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
