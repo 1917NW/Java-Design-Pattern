@@ -21,12 +21,14 @@
       <directory url="file://$PROJECT_DIR$/Observer/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/Visitor/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/Strategy/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/State/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="TemplateMethod" />
         <module name="FactoryMethod" />
         <module name="Facade" />
         <module name="Prototype" />
@@ -42,6 +44,7 @@
         <module name="Command" />
         <module name="Singleton" />
         <module name="FlyWeight" />
+        <module name="State" />
         <module name="Observer" />
         <module name="Iterator" />
         <module name="Strategy" />

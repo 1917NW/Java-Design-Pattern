@@ -30,6 +30,8 @@
         <module>Observer</module>
         <module>Visitor</module>
         <module>Strategy</module>
+        <module>State</module>
+        <module>TemplateMethod</module>
     </modules>
 
     <properties>
